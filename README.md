@@ -12,7 +12,7 @@ I've been searching for a reliable React rating component for Next.js with serve
 - All necessary options
 
 # Demo
-See <a href="">Live Demo</a>
+See <a href="https://next-rating-component.vercel.app/">Live Demo</a>
 
 # Installation
 

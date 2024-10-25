@@ -1,6 +1,7 @@
 {
   "name": "demo",
   "version": "0.1.0",
+  "description": "A react rating component with support of NextJS SSR and Fractional Step",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
@@ -8,9 +9,20 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "keywords": [
+    "react rating",
+    "react-rating component",
+    "nextjs rating component",
+    "react-next rating",
+    "next rating",
+    "simple rating component",
+    "e-commerce rating",
+    "rating product",
+    "react rating star"
+  ],
   "dependencies": {
     "next": "15.0.1",
-    "next-rating-component": "^1.0.5",
+    "next-rating-component": "^1.1.0",
     "react": "19.0.0-rc-69d4b800-20241021",
     "react-dom": "19.0.0-rc-69d4b800-20241021"
   },
