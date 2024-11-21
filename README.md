@@ -1,4 +1,8 @@
-<img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1704611347/logo_w4vxp0.png" width="100" height="100" style="display: block; margin: 0 auto;">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dub0dpenl/image/upload/v1731780157/Personal%20Logo/logo-white_e6fujz.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/dub0dpenl/image/upload/v1731780152/Personal%20Logo/logo-dark_qqwrqu.png">
+  <img alt="Siam Ahnaf" src="https://res.cloudinary.com/dub0dpenl/image/upload/v1731780152/Personal%20Logo/logo-dark_qqwrqu.png" height="auto" width="240">
+</picture>
 
 # Next Rating Component
 I've been searching for a reliable React rating component for Next.js with server-side rendering (SSR) support and essential features like fractional ratings. After trying several existing libraries over the past five days, I've found that many either don't work well with SSR, lack crucial functionality, or don't support fractions. Therefore, I've decided to build my own customizable rating component in TypeScript to meet common project needs.
