@@ -137,5 +137,5 @@ export default MyComponent;
 
 - Author - [Siam Ahnaf](https://www.siamahnaf.com/)
 - Website - [https://www.siamahnaf.com/](https://www.siamahnaf.com/)
-- Twitter - [https://twitter.com/siamahnaf198](https://twitter.com/siamahnaf198)
+- LinkedIn - [https://www.linkedin.com/in/siamahnaf/](https://www.linkedin.com/in/siamahnaf/)
 - Github - [https://github.com/siamahnaf](https://github.com/siamahnaf)
